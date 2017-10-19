@@ -1,0 +1,14 @@
+Title: Email and Email Servers
+Description: >
+    Every day, our lives continue to exist because of Email. Imagine the news
+    if Email suddenly stopped working! Some people even use Email
+    [to get ahold of emergency services](https://www.youtube.com/watch?v=1EBfxjSFAxQ).
+
+    This talk goes over how Email functions as a non-centralized system
+    (conceptually), as well as how to setup an Email system on Linux using
+    Postfix and Dovecot.
+Date: 2017-10-19
+Thumbnail: graphics/email.png
+Files:
+    SlidesPDF: email.pdf
+    LaTeX: email.tex
